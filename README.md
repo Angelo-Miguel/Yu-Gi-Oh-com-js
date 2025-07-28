@@ -2,12 +2,6 @@
 
 Projeto desenvolvido como desafio da DIO, inspirado no clássico jogo "Pedra, Papel e Tesoura", com temática do universo Yu-Gi-Oh!
 
-## Demonstração
-
-O jogo apresenta uma interface estilizada, trilha sonora temática e animações, proporcionando uma experiência nostálgica para fãs da franquia.
-
-![Screenshot do Jogo](./src/assets/icons/card-front.png)
-
 ## Como Jogar
 
 1. Abra o Jogo [clique aqui](https://angelo-miguel.github.io/Yu-Gi-Oh-com-js/)
