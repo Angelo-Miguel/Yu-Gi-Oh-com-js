@@ -25,18 +25,21 @@ Projeto desenvolvido como desafio da DIO, inspirado no clássico jogo "Pedra, Pa
 - JavaScript
 
 ## Estrutura do Projeto
-src/\
-├── assets/\
-│   ├── audios/        # Trilhas e efeitos sonoros\
-│   ├── cursor/        # Cursores personalizados\
-│   ├── favicon/       # Ícone do site\
-│   ├── icons/         # Imagens das cartas e ícones\
-│   ├── rpg/           # Imagens de fundo e bordas\
-│   └── video/         # Vídeo de fundo\
-├── css/               # Estilos do projeto\
-├── js/                # Scripts JS\
-│   └── engine.js      # Lógica principal do jogo\
-└── index.html         # Página principal
+```
+.
+├── src/
+│   ├── assets/
+│   │   ├── audios/        # Trilhas e efeitos sonoros
+│   │   ├── cursor/        # Cursores personalizados
+│   │   ├── favicon/       # Ícone do site
+│   │   ├── icons/         # Imagens das cartas e ícones
+│   │   ├── rpg/           # Imagens de fundo e bordas
+│   │   └── video/         # Vídeo de fundo
+│   ├── css/               # Estilos do projeto
+│   └── js/                # Scripts JS
+│       └── engine.js      # Lógica principal do jogo
+└── index.html             # Página principal
+```
 
 ## Créditos
 
